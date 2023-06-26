@@ -1,0 +1,5 @@
+orders = {
+ 'pizza': 200,
+ 'burger': 56,
+ 'pepsi': 25,
+    'Coffee': 14
